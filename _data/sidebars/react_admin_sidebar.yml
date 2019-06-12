@@ -31,6 +31,9 @@ entries:
     - title: Patient Summary
       url: /react-admin-summary.html
       output: web, pdf
+    - title: Patients List
+      url: /react-admin-patients-list.html
+      output: web, pdf
     - title: Allergies
       url: /react-admin-allergies.html
       output: web, pdf
