@@ -51,6 +51,9 @@ entries:
   - title: Plugin Tiles
     output: web, pdf
     folderitems:
+    - title: Clinical Notes
+      url: /react-admin-clinical-notes.html
+      output: web, pdf
     - title: Vaccinations
       url: /react-admin-vaccinations.html
       output: web, pdf
