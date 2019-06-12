@@ -20,10 +20,10 @@ github_editme_path: PulseTile/PulseTile-Docs/blob/gh-pages/pages/
 #disqus_shortname: idrbwjekyll
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
-host: 127.0.0.1
+host: 0.0.0.0
 # the preview server used. Leave as is.
 
-port: 4002
+port: 4000
 # the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
 
 exclude:
@@ -98,6 +98,7 @@ sidebars:
 - home_sidebar
 - angular_sidebar
 - react_sidebar
+- react_admin_sidebar
 - other
 - technologies-angular_sidebar
 - technologies-react_sidebar
