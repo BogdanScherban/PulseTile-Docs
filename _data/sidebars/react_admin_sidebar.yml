@@ -34,6 +34,10 @@ entries:
     - title: Contacts
       url: /react-admin-contacts.html
       output: web, pdf
+    - title: Medications
+      url: /react-admin-medications.html
+      output: web, pdf
+
 
   - title: Plugin Tiles
     output: web, pdf
