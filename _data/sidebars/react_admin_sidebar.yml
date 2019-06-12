@@ -54,3 +54,6 @@ entries:
     - title: Vaccinations
       url: /react-admin-vaccinations.html
       output: web, pdf
+    - title: Top Three Things
+      url: /react-admin-top-three-things.html
+      output: web, pdf
