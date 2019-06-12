@@ -28,11 +28,11 @@ entries:
     - title: Core Tiles
       url: /react-admin-core-tiles.html
       output: web, pdf
-    - title: Patient Summary
-      url: /react-admin-summary.html
-      output: web, pdf
     - title: Patients List
       url: /react-admin-patients-list.html
+      output: web, pdf
+    - title: Patient Summary
+      url: /react-admin-summary.html
       output: web, pdf
     - title: Allergies
       url: /react-admin-allergies.html
@@ -51,6 +51,6 @@ entries:
   - title: Plugin Tiles
     output: web, pdf
     folderitems:
-    - title: Test Results
-      url: /react-test-results.html
+    - title: Vaccinations
+      url: /react-admin-vaccinations.html
       output: web, pdf
