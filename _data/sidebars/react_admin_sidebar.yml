@@ -63,6 +63,9 @@ entries:
     - title: Procedures
       url: /react-admin-procedures.html
       output: web, pdf
+    - title: Referrals
+      url: /react-admin-referrals.html
+      output: web, pdf
     - title: Top Three Things
       url: /react-admin-top-three-things.html
       output: web, pdf
