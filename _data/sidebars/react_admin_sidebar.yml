@@ -54,6 +54,9 @@ entries:
     - title: Clinical Notes
       url: /react-admin-clinical-notes.html
       output: web, pdf
+    - title: MDT
+      url: /react-admin-mdt.html
+      output: web, pdf
     - title: Personal Notes
       url: /react-admin-personal-notes.html
       output: web, pdf
