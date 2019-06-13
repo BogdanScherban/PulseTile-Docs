@@ -60,6 +60,9 @@ entries:
     - title: Personal Notes
       url: /react-admin-personal-notes.html
       output: web, pdf
+    - title: Procedures
+      url: /react-admin-procedures.html
+      output: web, pdf
     - title: Top Three Things
       url: /react-admin-top-three-things.html
       output: web, pdf
