@@ -75,3 +75,6 @@ entries:
     - title: Vitals
       url: /react-admin-vitals.html
       output: web, pdf
+    - title: ReSPECT
+      url: /react-admin-respect.html
+      output: web, pdf
