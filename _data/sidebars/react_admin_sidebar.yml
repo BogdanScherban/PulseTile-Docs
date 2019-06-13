@@ -72,3 +72,6 @@ entries:
     - title: Vaccinations
       url: /react-admin-vaccinations.html
       output: web, pdf
+    - title: Vitals
+      url: /react-admin-vitals.html
+      output: web, pdf
